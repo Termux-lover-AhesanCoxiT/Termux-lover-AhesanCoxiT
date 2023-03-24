@@ -1,5 +1,4 @@
-AssaLamuaLaiikum I'm Mr.Ahesan!
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F765D4&background=FF5DD000&width=435&lines=%F0%9F%98%8D+AssaLamuaLaiikum+%F0%9F%98%8D)](https://git.io/typing-svg)
 
 
 
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...linux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 
+
 
 ### Hi there 👋, 𝙄'𝙢 AHESAN
 #### ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
@@ -21,6 +20,6 @@ Here are some ideas to get you started:
 
 Skills: REACT / JS / HTML / PYTON / PHP
 
-- 🔭 I’m currently working on Yₒᵤₜᵤbₑ 
+- 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning ρꪗꪻꫝꪮꪀ 
 - 👯 I’m looking to collaborate on 𝖌𝖎𝖙𝖍𝖚𝖇 
