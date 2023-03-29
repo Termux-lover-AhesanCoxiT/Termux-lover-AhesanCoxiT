@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F765D4&background=FF5DD000&width=435&lines=%F0%9F%98%8D+AssaLamuaLaiikum+%F0%9F%98%8D)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%92%93AssaLamuaLaiiqum%F0%9F%92%93;%F0%9F%99%8FPray+SaLaat+Everyday%F0%9F%99%8F;%F0%9F%8E%85We+Are+MusLim%F0%9F%A7%9D%E2%80%8D%E2%99%80%EF%B8%8F;So+Please+Pray+iT!)](https://git.io/typing-svg)
 
 
 
