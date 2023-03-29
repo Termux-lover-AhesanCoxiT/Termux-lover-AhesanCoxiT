@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋, 𝙄'𝙢 AHESAN
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%F0%9F%91%8B+there+%2C+%F0%9D%99%84'%F0%9D%99%A2+AHESAN;I'm+a+ordinary+MusLim%F0%9F%91%80)](https://git.io/typing-svg)
 #### ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
 
