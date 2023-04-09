@@ -1,13 +1,12 @@
+# [![IMG-20230409-180821.jpg](https://i.postimg.cc/yYxtmM9P/IMG-20230409-180821.jpg)](https://postimg.cc/tY0BymBZ)
+
+
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%92%93AssaLamuaLaiiqum%F0%9F%92%93;%F0%9F%99%8FPray+SaLaat+Everyday%F0%9F%99%8F;%F0%9F%8E%85We+Are+MusLim%F0%9F%A7%9D%E2%80%8D%E2%99%80%EF%B8%8F;So+Please+Pray+iT!)](https://git.io/typing-svg)
 
 
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Working on...Study
-- 🌱 I’m currently learning ...linux/Python/Termux
 
 
 
